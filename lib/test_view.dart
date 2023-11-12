@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:ecommercecourse/core/constant/color.dart';
-import 'package:ecommercecourse/core/constant/imgaeasset.dart';
+import 'package:EMOOL/core/constant/color.dart';
+import 'package:EMOOL/core/constant/imgaeasset.dart';
 import 'package:flutter/material.dart';
 
 class TestView extends StatelessWidget {
